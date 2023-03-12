@@ -1,4 +1,4 @@
-float x, y, a, b, s;
+float x, y, s;
 void setup(){
 size(500,500);
 background(255);
